@@ -8,6 +8,7 @@ namespace CreditCart
 {
     public class Class1
     {
-        public int debet = 12;
+        public int debet = 11111;
+        public int credet = 0;
     }
 }
