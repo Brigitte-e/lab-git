@@ -1,0 +1,17 @@
+D:\1\New folder\Purse\CreditCart\bin\Debug\CreditCart.dll
+D:\1\New folder\Purse\CreditCart\bin\Debug\CreditCart.pdb
+D:\1\New folder\Purse\CreditCart\obj\Debug\CreditCart.csprojResolveAssemblyReference.cache
+D:\1\New folder\Purse\CreditCart\obj\Debug\CreditCart.dll
+D:\1\New folder\Purse\CreditCart\obj\Debug\CreditCart.pdb
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\CreditCart.dll
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\CreditCart.pdb
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\mscorlib.dll
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normidna.nlp
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normnfc.nlp
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normnfd.nlp
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normnfkc.nlp
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normnfkd.nlp
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.csprojResolveAssemblyReference.cache
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.dll
+C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.pdb
