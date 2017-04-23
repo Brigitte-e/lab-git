@@ -1,0 +1,42 @@
+c:\users\oleh\documents\visual studio 2015\Projects\Purse\Purse\bin\Debug\Purse.exe.config
+D:\1\New folder\Purse\Purse\bin\Debug\Purse.exe.config
+D:\1\New folder\Purse\Purse\bin\Debug\Purse.exe
+D:\1\New folder\Purse\Purse\bin\Debug\Purse.pdb
+D:\1\New folder\Purse\Purse\bin\Debug\CreditCart.dll
+D:\1\New folder\Purse\Purse\bin\Debug\CreditCart.pdb
+D:\1\New folder\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+D:\1\New folder\Purse\Purse\obj\Debug\Purse.exe
+D:\1\New folder\Purse\Purse\obj\Debug\Purse.pdb
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\Purse.exe.config
+C:\Users\Nactya\Desktop\Purse-master\Purse\obj\Debug\Purse.exe
+C:\Users\Nactya\Desktop\Purse-master\Purse\obj\Debug\Purse.pdb
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\Purse.exe
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\Purse.pdb
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\CreditCart.dll
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\mscorlib.dll
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\CreditCart.pdb
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\normidna.nlp
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\normnfc.nlp
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\normnfd.nlp
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\normnfkc.nlp
+C:\Users\Nactya\Desktop\Purse-master\Purse\bin\Debug\normnfkd.nlp
+C:\Users\Nactya\Desktop\Purse-master\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\Purse.exe.config
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\obj\Debug\Purse.exe
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\obj\Debug\Purse.pdb
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\Purse.exe
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\Purse.pdb
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\CreditCart.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\mscorlib.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\CreditCart.pdb
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normidna.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfc.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfd.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfkc.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfkd.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\Nactya\Desktop\lab-git-1\Purse\bin\Debug\Purse.exe.config
+C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.exe
+C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.pdb
