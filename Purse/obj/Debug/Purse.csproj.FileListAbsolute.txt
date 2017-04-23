@@ -37,3 +37,6 @@ C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\
 C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfkc.nlp
 C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\bin\Debug\normnfkd.nlp
 C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\Nactya\Desktop\lab-git-1\Purse\bin\Debug\Purse.exe.config
+C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.exe
+C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.pdb

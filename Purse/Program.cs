@@ -12,8 +12,10 @@ namespace Purse
         {
             CreditCart.Class1 debet = new CreditCart.Class1();
             CreditCart.Class1 credet = new CreditCart.Class1();
-            Console.WriteLine("Your debet"+debet.debet);
+
+            
             Console.WriteLine("Your credet" + credet.credet);
+            Console.WriteLine("Your debet" + debet.debet);
         }
     }
 }
