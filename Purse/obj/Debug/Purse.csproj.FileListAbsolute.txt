@@ -40,3 +40,4 @@ C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\Purse\obj\Debug\
 C:\Users\Nactya\Desktop\lab-git-1\Purse\bin\Debug\Purse.exe.config
 C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.exe
 C:\Users\Nactya\Desktop\lab-git-1\Purse\obj\Debug\Purse.pdb
+C:\Users\Nactya\Desktop\lab-git-2\Purse\bin\Debug\Purse.exe.config
