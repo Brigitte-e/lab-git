@@ -15,3 +15,15 @@ C:\Users\Nactya\Desktop\Purse-master\CreditCart\bin\Debug\normnfkd.nlp
 C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.csprojResolveAssemblyReference.cache
 C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.dll
 C:\Users\Nactya\Desktop\Purse-master\CreditCart\obj\Debug\CreditCart.pdb
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\CreditCart.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\CreditCart.pdb
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\mscorlib.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\normidna.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\normnfc.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\normnfd.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\normnfkc.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\bin\Debug\normnfkd.nlp
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\obj\Debug\CreditCart.csprojResolveAssemblyReference.cache
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\obj\Debug\CreditCart.dll
+C:\Users\Nactya\Documents\training-dw-anastasiia-khymko\lab-git\CreditCart\obj\Debug\CreditCart.pdb
