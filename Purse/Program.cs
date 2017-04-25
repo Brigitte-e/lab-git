@@ -18,6 +18,7 @@ namespace Purse
             Console.WriteLine("Your debet"+debet.debet);
             Console.WriteLine("Your credet" + credet.credet);
             Console.WriteLine("All" + money);
+            Console.WriteLine("1 2 3"); 
 
         }
     }
